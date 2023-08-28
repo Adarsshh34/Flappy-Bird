@@ -2,6 +2,11 @@
 
 A simple implementation of the classic Flappy Bird game using the Pygame library.
 
+## Screenshots
+
+
+![Screenshot 2023-08-28 013810](https://github.com/Adarsshh34/Flappy-Bird/assets/102070546/c4077dd8-33c3-40a1-941e-be8fd10f7435)
+
 
 
 ## Requirements
